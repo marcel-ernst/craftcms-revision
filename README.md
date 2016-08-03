@@ -3,14 +3,12 @@
 A Craft CMS plugin for reading a revision string from a file and provide it as template-variable.
 This is useful for deploying the cms with capistrano or something else.
 
-- - -
 
 ## Installation
 1. Download ZIP and unzip file then place the `revision` directory into your `craft/plugins` directory.
 
 2. Install the plugin through Control Panel under `Settings > Plugins`
 
-- - -
 
 ## Usage
 
@@ -45,14 +43,12 @@ or
 
 
 
-- - -
 
 
 ## Related Project
 
 [A framework for deploying CraftCMS website with Capistrano.](https://github.com/Bluegg/craft-deploy)
 
-- - -
 
 ## License
 
